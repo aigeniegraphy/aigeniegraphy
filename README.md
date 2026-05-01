@@ -1,5 +1,26 @@
-<img width="1536" height="1024" alt="aigeniegraphy_github_profile" src="https://github.com/user-attachments/assets/4cbe45e5-5a33-4332-8817-c41cdfb222f2" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cbe45e5-5a33-4332-8817-c41cdfb222f2" width="100%" />
+</p>
 
+---
+
+## 🚀 About Me
+AI 기반 디자인 · 콘텐츠 · 교육 · 자동화 전문가
+
+---
+
+## 🎯 Services
+- 🎨 AI 디자인 & 브랜딩  
+- 🎬 멀티콘텐츠 제작  
+- 🏫 AI 실무 교육  
+- 💡 업무 자동화 컨설팅  
+
+---
+
+## 📫 Contact
+- YouTube: (링크)
+- Blog: (링크)
+- Email: (이메일)
 ---
 
 # 💫 AI GenieGraphy | AI지니그라피
