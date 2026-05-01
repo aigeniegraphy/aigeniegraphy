@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="aigeniegraphy_github_profile" src="https://github.com/user-attachments/assets/603c8210-febd-4c90-b3eb-54666f6fc2da" />
+
+---
+
 # 💫 AI GenieGraphy | AI지니그라피
 > **"상상을 현실로, 안목은 깊게, 표현은 자유롭게 - 크리에이티브 AI 지니그라피"**
 
