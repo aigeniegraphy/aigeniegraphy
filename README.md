@@ -20,7 +20,7 @@ AI 기반 디자인 · 콘텐츠 · 교육 · 자동화 전문가
 ## 📫 Contact
 - YouTube: (링크)
 - Blog: (링크)
-- Email: (이메일)
+- Email: (aigeniegraphy@gmail.com)
 ---
 
 # 💫 AI GenieGraphy | AI지니그라피
