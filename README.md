@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="aigeniegraphy_github_profile" src="https://github.com/user-attachments/assets/603c8210-febd-4c90-b3eb-54666f6fc2da" />
+<img width="1536" height="1024" alt="aigeniegraphy_github_profile" src="https://github.com/user-attachments/assets/4cbe45e5-5a33-4332-8817-c41cdfb222f2" />
 
 ---
 
