@@ -42,6 +42,7 @@ AI 기반 디자인 · 콘텐츠 · 교육 · 자동화 전문가
 ### 🎓 Expert Credentials (전문가 약력)
 
 * <span style="color:#FF5733">**산업체 우수강사**</span> | <span style="color:#2ECC71">**PTG 그래픽기술전문강사**</span> | <span style="color:#3498DB">**ICDL Korea 공인강사**</span>
+* **직업교사 / 직업교육 전문가**
 * **국가공인 디자인 · 출판 직업훈련교사**
 * **AI Creative Educator (AI 창작 교육 전문가)**
 
