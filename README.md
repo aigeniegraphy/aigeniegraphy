@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20GenieGraphy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20지니그라피%20·%20크리에이티브%20AI%20솔루션의%20새로운%20기준&descAlignY=58&descSize=16&descColor=c18aff)
 
-<br/>
+
 
 <img src="https://img.shields.io/badge/✦_AI_Creative_Solution-a050ff?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
