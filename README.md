@@ -122,7 +122,7 @@
 </div>
 
 ---
-[README.md](https://github.com/user-attachments/files/27393126/README.md)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4cbe45e5-5a33-4332-8817-c41cdfb222f2" width="100%" />
 </p>
