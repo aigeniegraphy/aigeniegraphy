@@ -1,64 +1,46 @@
 <div align="center">
 
-<!--hero badge-->
-<img src="https://img.shields.io/badge/✦%20AI%20Creative%20Solution-AI%20GenieGraphy-blueviolet?style=for-the-badge&labelColor=0d0d0d&color=a050ff&logoColor=white" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20GenieGraphy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20지니그라피%20·%20크리에이티브%20AI%20솔루션의%20새로운%20기준&descAlignY=58&descSize=16&descColor=c18aff)
 
-<br/><br/>
+<br/>
 
-# 🌟 AI GenieGraphy · AI 지니그라피
+<img src="https://img.shields.io/badge/✦_AI_Creative_Solution-a050ff?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/Since-2024-60cfff?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/Korea-🇰🇷-ff6b35?style=for-the-badge&labelColor=0d0d0d" />
 
-### 크리에이티브 AI 솔루션의 새로운 기준
+<br/>
 
-> 💫 **상상을 현실로**, 안목은 깊게, 표현은 자유롭게  
-> *Imagination to Reality · Deep Vision · Free Expression*
+ ### 💫 &nbsp; 상상을 현실로 &nbsp;·&nbsp; 안목은 깊게 &nbsp;·&nbsp; 표현은 자유롭게
+ *Imagination to Reality · Deep Vision · Free Expression*
+
 
 </div>
 
 ---
+
+
+## 🚀 &nbsp; 핵심 서비스 포트폴리오
+
 
 <div align="center">
 
-| 🎨 | 🎬 | 🏫 | 💡 |
-|:---:|:---:|:---:|:---:|
-| **AI 디자인 & 브랜딩** | **멀티콘텐츠 제작** | **AI 맞춤형 특강** | **업무 효율 컨설팅** |
-| Brand Identity | Multimedia | Education | Consulting |
+|  | 서비스 | 설명 |
+|:---:|:---|:---|
+| 🎨 | **AI 디자인 & 브랜딩** | 숙련된 안목의 고급 브랜딩 솔루션 · `Brand Identity` |
+| 🎬 | **AI 멀티콘텐츠 제작** | 유튜브 · 숏츠 등 감각적인 영상 제작 · `Multimedia` |
+| 🏫 | **AI 실무 맞춤형 특강** | 교육 현장 최적화 · 생성형 AI 맞춤 교육 · `Education` |
+| 💡 | **AI 업무 효율 컨설팅** | 전문가용 AI 컨설팅 · 업무 효율 극대화 · `Consulting` |
 
 </div>
 
----
-
-## 🗂️ 핵심 서비스 포트폴리오
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎨 AI 디자인 &amp; 브랜딩</h3>
-      <p>숙련된 안목의 고급 브랜딩 솔루션</p>
-      <img src="https://img.shields.io/badge/Brand%20Identity-ff6b35?style=flat-square&labelColor=1a0a00" />
-    </td>
-    <td width="50%">
-      <h3>🎬 AI 멀티콘텐츠 제작</h3>
-      <p>유튜브·숏츠 등 감각적인 영상 제작</p>
-      <img src="https://img.shields.io/badge/Multimedia-ff2d55?style=flat-square&labelColor=1a0008" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏫 AI 실무 맞춤형 특강</h3>
-      <p>교육 현장 최적화 · 생성형 AI 맞춤 교육</p>
-      <img src="https://img.shields.io/badge/Education-34c759?style=flat-square&labelColor=001a0a" />
-    </td>
-    <td width="50%">
-      <h3>💡 AI 업무 효율 컨설팅</h3>
-      <p>전문가용 AI 컨설팅 · 업무 효율 극대화</p>
-      <img src="https://img.shields.io/badge/Consulting-007aff?style=flat-square&labelColor=00001a" />
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 🏅 전문가 공인 약력 (Credentials)
+
+ ## 🏅 전문가 공인 약력 (Credentials)
+
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -88,38 +70,60 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
----
+</div>
 
-## 📊 전문 역량 레이더 (Skills)
 
-| 역량 | 숙련도 | |
-|:---|:---:|:---|
-| 🎨 AI 디자인 | 96% | `████████████████████░░` |
-| 🏫 AI 교육   | 95% | `███████████████████░░░` |
-| 🖼️ 브랜딩    | 90% | `██████████████████░░░░` |
-| 🎬 영상 제작 | 88% | `█████████████████░░░░░` |
-| 💡 AI 컨설팅 | 85% | `█████████████████░░░░░` |
 
 ---
+
+## 📊 &nbsp; 전문 역량
+
+<br/>
 
 <div align="center">
 
-### 🔗 Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-포트폴리오-a050ff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/aigeniegraphy)
-[![YouTube](https://img.shields.io/badge/YouTube-AI%20GenieGraphy-ff0000?style=for-the-badge&logo=youtube&labelColor=0d0d0d)](https://youtube.com)
-[![Blog](https://img.shields.io/badge/Blog-AI%20한시이트-60cfff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/aigeniegraphy)
-
-<br/>
-
-> *"AI는 도구가 아닌 창작의 파트너입니다."*  
-> **✦ AI GenieGraphy**
-
-<br/>
-
-© 2026 AI GenieGraphy. AI와 디자인의 완벽한 융합. All rights reserved.
+| 역량 | 숙련도 | 그래프 |
+|:---:|:---:|:---|
+| 🎨 &nbsp; AI 디자인 | **96%** | ![96](https://progress-bar.xyz/96/?scale=100&width=280&color=a050ff&suffix=%) |
+| 🏫 &nbsp; AI 교육   | **95%** | ![95](https://progress-bar.xyz/95/?scale=100&width=280&color=34c759&suffix=%) |
+| 🖼️ &nbsp; 브랜딩   | **90%** | ![90](https://progress-bar.xyz/90/?scale=100&width=280&color=ff6b35&suffix=%) |
+| 🎬 &nbsp; 영상 제작 | **88%** | ![88](https://progress-bar.xyz/88/?scale=100&width=280&color=ff2d55&suffix=%) |
+| 💡 &nbsp; AI 컨설팅 | **85%** | ![85](https://progress-bar.xyz/85/?scale=100&width=280&color=007aff&suffix=%) |
 
 </div>
+
+
+
+---
+
+
+## 🔗 &nbsp; Links
+
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🗂️_Portfolio-포트폴리오-a050ff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/aigeniegraphy)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/▶_YouTube-AI_GenieGraphy-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0d0d)](https://youtube.com/@aigeniegraphy)
+&nbsp;
+[![Blog](https://img.shields.io/badge/✍️_Blog-AI_블로그-60cfff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/aigeniegraphy)
+&nbsp;
+[![Contact](https://img.shields.io/badge/📬_Contact-문의하기-34c759?style=for-the-badge&labelColor=0d0d0d)](mailto:aigeniegraphy@gmail.com)
+
+</div>
+
+
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=AI는%20도구가%20아닌%20창작의%20파트너입니다.&fontSize=16&fontColor=1a2a6c&fontAlignY=65)
+
+</div>
+
+<br/>
+
+
+
 
 ---
 
