@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="aigeniegraphy_github_best_profile" src="https://github.com/user-attachments/assets/235e35ab-2425-40d5-b6f3-fb965cd4adff" />
+
+---
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AI%20GenieGraphy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20지니그라피%20·%20크리에이티브%20AI%20솔루션의%20새로운%20기준&descAlignY=58&descSize=16&descColor=c18aff)
@@ -127,10 +130,8 @@
 
 
 ---
+<img width="1536" height="1024" alt="aigeniegraphy_github_best_profile" src="https://github.com/user-attachments/assets/235e35ab-2425-40d5-b6f3-fb965cd4adff" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4cbe45e5-5a33-4332-8817-c41cdfb222f2" width="100%" />
-</p>
 
 ---
 
